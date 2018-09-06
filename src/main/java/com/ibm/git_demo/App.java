@@ -8,7 +8,7 @@ public class App
 {
 	public void addData(String data) {
 		System.out.println("data="+data);
-		if(data.equals("java gems")) {
+		if(data.equals(Consort.DATA_TYPE)) {
 			System.out.println("Welcome");
 		}
 	}

@@ -12,6 +12,9 @@ public class App
 			System.out.println("Welcome");
 		}
 	}
+	public void add(String name){
+		System.out.println("Deepak")
+	}
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
